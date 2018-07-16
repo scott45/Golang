@@ -12,5 +12,7 @@
  
  > fmt is a shared Go-module. runtime is shared module too. runtime.GOOS shows what operating system is running. 
  
+ > bin, src, pkg folders required to run and compile go programs.
+ 
 
  
