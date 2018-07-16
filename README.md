@@ -4,15 +4,15 @@
  
  > Cross-platform, well documented and open source.
  
- > package main (standalone, exceutable and entrypoint for main function)
+ > `package main` (standalone, exceutable and entrypoint for main function)
  
- > func main (function called main). func main () { all function code goes in here}
+ > `func main` (function called main). func main () { all function code goes in here}
  
- > import {module} or import ("fmt", "runtime") 
+ > import {module} or `import ("fmt" "runtime")` 
  
- > fmt is a shared Go-module. runtime is shared module too. runtime.GOOS shows what operating system is running. 
+ > fmt is a shared Go-module. runtime is shared module too. `runtime.GOOS` shows what operating system is running. 
  
- > bin, src, pkg folders required to run and compile go programs. file has a .go ext.
+ > `bin, src, pkg` folders required to run and compile go programs. file has a `.go` ext.
  
  > cd to code-folder and `go run file.go`
  
