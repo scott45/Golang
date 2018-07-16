@@ -1,4 +1,4 @@
-# Golang
+# Golang facts
 
  > Modern, concise, simple, compiled language created at google by Robert, Pike, Thompson (2007 and first release in 2009).
  
@@ -16,7 +16,7 @@
  
  > cd to code-folder and `go run file.go`
  
- > Variables and constants
+ ### Variables and constants
  
  
 
