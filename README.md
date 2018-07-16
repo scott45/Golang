@@ -10,5 +10,7 @@
  
  > import {module} or import ("fmt", "runtime") 
  
+ > fmt is a shared Go-module. runtime is shared module too. runtime.GOOS shows what operating system is running. 
+ 
 
  
