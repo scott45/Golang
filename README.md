@@ -8,6 +8,7 @@
  
  > func main (function called main). func main () { all function code goes in here}
  
- > import {module} or import ("fmt", "runtime") etc
+ > import {module} or import ("fmt", "runtime") 
  
+
  
