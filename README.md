@@ -16,6 +16,8 @@
  
  > cd to code-folder and `go run file.go`
  
+ > it's a case sensitive language. fmt.Println (capital used when working with exported names)
+ 
  ### Variables and constants
  
  
