@@ -18,6 +18,8 @@
  
  > it's a case sensitive language. fmt.Println (capital used when working with exported names)
  
+ > // line comments and /* for block comments */
+ 
  ### Variables and constants
  
  
