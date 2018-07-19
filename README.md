@@ -30,6 +30,8 @@
  
  ### Structs
  
+ > making custom types
+ 
  ### maps
  
  > equivalent of dictionaries
