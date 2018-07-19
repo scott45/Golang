@@ -28,6 +28,8 @@
  
  ### Arrays and slices
  
+ > slices built on top of arrays
+ 
  ### Structs
  
  > making custom types
