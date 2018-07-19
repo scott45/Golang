@@ -44,6 +44,8 @@
  
  > stored in key- value format
  
+ > they are printed/returned in unordered format
+ 
  ### Go-concurrency 
  
  > doing many things at one
