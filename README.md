@@ -30,6 +30,10 @@
  
  > slices built on top of arrays
  
+ > slices reference to arrays.
+ 
+ > arrays (ordered list) are rarely used as they are immutable. 
+ 
  ### Structs
  
  > making custom types
