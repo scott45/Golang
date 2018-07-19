@@ -32,6 +32,10 @@
  
  ### maps
  
+ > equivalent of dictionaries
+ 
+ > stored in key- value format
+ 
  ### Go-concurrency 
  
  > doing many things at one
