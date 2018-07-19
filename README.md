@@ -28,6 +28,8 @@
  
  ### Arrays and slices
  
+ ### Structs
+ 
  ### maps
  
  ### Go-concurrency 
