@@ -33,4 +33,10 @@
  ### maps
  
  ### Go-concurrency 
+ 
+ > doing many things at one
+ 
+ > go routines
+ 
+ > channels
 
