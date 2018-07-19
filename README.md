@@ -26,6 +26,8 @@
  
  > Go has only got one `for` loop and it's flexible
  
+ ### Arrays and slices
+ 
  ### maps
  
  ### Go-concurrency 
