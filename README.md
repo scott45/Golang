@@ -1,6 +1,6 @@
 # Golang facts
 
- > Modern, concise, simple, compiled language created at google by Robert, Pike, Thompson (2007 and first release in 2009).
+ > Modern, concise, simple, compiled language created and largely maintained by google by Robert, Pike, Thompson (2007 and first release in 2009).
  
  > Cross-platform, well documented and open source.
  
