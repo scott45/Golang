@@ -59,3 +59,5 @@
 ## to-do's
 
 > scripting
+
+> cmd apps
